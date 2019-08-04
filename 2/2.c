@@ -19,6 +19,5 @@ int main(){
         printf("Sorry, I can not let you in.");
     }
 
-
     return 0;
 }
